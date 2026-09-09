@@ -1,0 +1,16 @@
+{
+  "name": "knistertap",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:release": "node build.mjs --release",
+    "dev": "node build.mjs && node server.mjs",
+    "start": "node server.mjs",
+    "publish:site": "sh scripts/publish.sh"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
