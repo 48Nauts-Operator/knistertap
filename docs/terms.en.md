@@ -6,7 +6,7 @@ These draft terms describe the proposed rules for Knistertap’s website and ass
 
 ## 1. About Knistertap and these terms
 
-The operator’s identity and postal address are listed in the legal notice: /en/legal/. Contact: support@knistertap.com. Effective date: [DATE].
+The operator’s identity and postal address are listed in the legal notice: /en/legal/. Contact: support@knistertap.com. Effective date: 9 September 2026.
 These terms cover this website and Knistertap-operated services expressly identified as using them. They do not replace an app’s applicable software licence, Apple’s service terms, or any mandatory rights you have. Where contractual agreement is required, the relevant terms must be presented through an appropriate acceptance process.
 
 ## 2. What the games are for

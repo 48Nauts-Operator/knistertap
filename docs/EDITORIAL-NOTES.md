@@ -6,6 +6,7 @@ Drafted 9 September 2026. The requested drafts are in `privacy.en.md`, `privacy.
 
 - Brand: Knistertap (working name).
 - Website domain: https://knistertap.com.
+- The maker confirmed there are no sales, orders or payments on the website; it showcases games and provides support.
 - Support/privacy contact: support@knistertap.com (supplied by the maker).
 - Website analytics: Umami only; connection and hosting details pending.
 - Operator: Candoo Labs / Wolke.
@@ -18,7 +19,7 @@ The supplied operator name is preserved verbatim. A registered entity type, trad
 
 ## Still needed to finalize the drafts
 
-1. Effective date, and any applicable registration or representative details.
+1. Any applicable registration or representative details. The maker selected 9 September 2026 as the effective date.
 2. Hosting/CDN and email providers; processing countries; actual log fields; retention and backup periods; any international-transfer safeguards required for the chosen services.
 3. Release-level confirmation of ads, analytics, purchases, subscriptions, cloud services, diagnostics accessed through Apple, and all third-party SDKs for each game.
 4. Intended ages and countries, whether children are specifically targeted, and appropriate safeguards for the actual data flows. A store age rating is not a substitute for that assessment.
@@ -71,3 +72,9 @@ Use “a little moment of active thinking” and “a puzzle break.” Do not de
 ## Umami setup
 
 Only Umami is authorized for website analytics. Script URL and website ID have been requested; no tracker has been installed or activated yet. Use the supplied snippet to identify the real instance, then implement and verify the actual configuration and update the preview-status note. Confirm processing location, provider, data fields and retention rather than assuming Umami Cloud or self-hosting. The [official FAQ](https://docs.umami.is/docs/faq) describes a cookieless tracker; this alone is not a finding about all personal-data processing or legal consent requirements. Website analytics choices do not establish the SDK inventory of the iOS apps.
+
+## Impressum completion — 9 September 2026
+
+The operator notice now contains the supplied operator name, full postal address, email, website and update date in both languages. Empty registration, VAT and representative placeholders were removed from the public notice; no absence of registration or VAT liability has been asserted. If applicable identifiers or a fuller legal identity are supplied, add them to this notice only. Other policy drafts retain their remaining editorial notes; `legal.draft = false` does not set the site-wide `legalReviewed` release flag.
+
+[SECO’s account of Article 3(1)(s) UWG](https://www.seco.admin.ch/de/vor-dem-kauf-und-vertragsabschluss) requires clear identity and contact details including email for e-commerce providers. Its [broader webshop guidance](https://www.kmu.admin.ch/de/informationen-ueber-den-betreiber) also lists a contact person, phone and UID. The current game showcase has no website checkout. This cleanup does not certify the entity’s legal identity or every obligation for future sales and other target markets.

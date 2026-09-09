@@ -8,7 +8,7 @@ This notice explains how Knistertap handles personal information when you visit 
 
 The operator’s identity and postal address are listed in the legal notice: /en/legal/. This operator is responsible for the processing described in this notice.
 Contact for privacy questions and requests: support@knistertap.com.
-Effective date: [DATE]. Website: https://knistertap.com.
+Effective date: 9 September 2026. Website: https://knistertap.com.
 
 ## 2. Website visits
 

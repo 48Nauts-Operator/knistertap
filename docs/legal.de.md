@@ -1,8 +1,8 @@
 # Knistertap — Impressum
 
-> DRAFT / ENTWURF · 2026-09-09 · Replace bracketed editorial notes and review before publication.
+> Updated / Stand: 2026-09-09
 
-Identität und Kontakt des Betreibers von Knistertap.
+Knistertap wird von Candoo Labs / Wolke betrieben. Hier findest du die Angaben zum Betreiber und die Kontaktmöglichkeiten.
 
 ## 1. Betreiber
 
@@ -10,15 +10,9 @@ Candoo Labs / Wolke
 Zaehlerweg 5
 6300 Zug
 Schweiz
-support@knistertap.com
 
-## 2. Geschäftsangaben
+## 2. Kontakt
 
-[REGISTERBEHÖRDE UND REGISTERNUMMER, FALLS ANWENDBAR]
-[MWST-NUMMER, FALLS ANWENDBAR]
-[VERTRETUNGSBERECHTIGTE PERSON, FALLS ANWENDBAR]
-
-## 3. Verantwortung für die Website
-
-[INHALTLICH VERANTWORTLICHE PERSON, SOWEIT ERFORDERLICH]
-https://knistertap.com
+E-Mail für Fragen zur Website, Spielesupport und Datenschutz: support@knistertap.com
+Website: https://knistertap.com
+Stand: 9. September 2026.

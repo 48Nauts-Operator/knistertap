@@ -8,7 +8,7 @@ Diese Erklärung beschreibt den Umgang mit Personendaten beim Besuch dieser Webs
 
 Identität und Postanschrift des Betreibers findest du im Impressum: /de/legal/. Dieser Betreiber ist für die hier beschriebene Datenbearbeitung verantwortlich.
 Kontakt für Datenschutzfragen und Anfragen: support@knistertap.com.
-Gültig ab: [DATUM]. Website: https://knistertap.com.
+Gültig ab: 9. September 2026. Website: https://knistertap.com.
 
 ## 2. Besuch der Website
 

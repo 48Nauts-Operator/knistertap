@@ -6,7 +6,7 @@ Dieser Entwurf beschreibt die vorgesehenen Regeln für Knistertaps Website und z
 
 ## 1. Über Knistertap und diese Bedingungen
 
-Identität und Postanschrift des Betreibers findest du im Impressum: /de/legal/. Kontakt: support@knistertap.com. Gültig ab: [DATUM].
+Identität und Postanschrift des Betreibers findest du im Impressum: /de/legal/. Kontakt: support@knistertap.com. Gültig ab: 9. September 2026.
 Diese Bedingungen betreffen die Website und vom Betreiber angebotene Dienste, die ausdrücklich darauf verweisen. Sie ersetzen weder die Softwarelizenz einer App noch Apples Dienstbedingungen oder zwingende Rechte. Wo eine vertragliche Zustimmung nötig ist, müssen die relevanten Bedingungen in einem geeigneten Zustimmungsverfahren vorgelegt werden.
 
 ## 2. Wozu die Spiele gedacht sind
@@ -26,8 +26,8 @@ Störe Website und Spiele nicht, greife nicht unberechtigt auf Systeme zu, manip
 
 ## 5. Preise, Käufe und Abonnemente
 
-Der aktuelle Preis eines Spiels und kostenpflichtige Funktionen werden vor einer Transaktion im Store-Eintrag oder Kaufdialog angezeigt. Werden Käufe über Apple angeboten, richten sich Zahlung, Aboverwaltung, Kündigung und Erstattungsanfragen nach dem anwendbaren Apple-Verfahren und deinen zwingenden Verbraucherrechten.
-[KOSTENLOSE UND KOSTENPFLICHTIGE SPIELE, IN-APP-KÄUFE, ABOS, WERBUNG UND DIREKTVERKÄUFE BESTÄTIGEN. UNZUTREFFENDES ENTFERNEN UND TATSÄCHLICHE GESCHÄFTSBEDINGUNGEN ERGÄNZEN. EIN WEBSITE-BESUCH ERÖFFNET KEIN ABO.]
+Diese Website stellt Spiele vor und bietet Informationen und Support. Sie nimmt keine Bestellungen oder Zahlungen entgegen. Der aktuelle Preis eines Spiels und kostenpflichtige Funktionen werden vor einer Transaktion im Store-Eintrag oder Kaufdialog angezeigt. Werden Käufe über Apple angeboten, richten sich Zahlung, Aboverwaltung, Kündigung und Erstattungsanfragen nach dem anwendbaren Apple-Verfahren und deinen zwingenden Verbraucherrechten.
+[KOSTENLOSE UND KOSTENPFLICHTIGE SPIELE, IN-APP-KÄUFE, ABOS, WERBUNG DER APPS BESTÄTIGEN. UNZUTREFFENDES ENTFERNEN UND TATSÄCHLICHE GESCHÄFTSBEDINGUNGEN ERGÄNZEN. EIN WEBSITE-BESUCH ERÖFFNET KEIN ABO.]
 
 ## 6. Verfügbarkeit, Spielstände und Updates
 

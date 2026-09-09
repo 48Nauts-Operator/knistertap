@@ -1,23 +1,18 @@
 # Knistertap — Legal notice
 
-> DRAFT / ENTWURF · 2026-09-09 · Replace bracketed editorial notes and review before publication.
+> Updated / Stand: 2026-09-09
 
-The public identity and contact details of the person or company operating Knistertap.
+Knistertap is operated by Candoo Labs / Wolke. This page provides the operator’s identity and contact details.
 
 ## 1. Operator
 
 Candoo Labs / Wolke
-Zaehlerweg 5, 6300 Zug
+Zaehlerweg 5
+6300 Zug
 Switzerland
-support@knistertap.com
 
-## 2. Business details
+## 2. Contact
 
-[REGISTRATION AUTHORITY AND NUMBER, IF APPLICABLE]
-[VAT NUMBER, IF APPLICABLE]
-[AUTHORIZED REPRESENTATIVE, IF APPLICABLE]
-
-## 3. Website responsibility
-
-[PERSON RESPONSIBLE FOR THE WEBSITE, WHERE REQUIRED]
-https://knistertap.com
+Email for website, game support and privacy enquiries: support@knistertap.com
+Website: https://knistertap.com
+Last updated: 9 September 2026.
