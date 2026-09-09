@@ -26,8 +26,8 @@ Do not interfere with the website or games, access systems without permission, s
 
 ## 5. Prices, purchases, and subscriptions
 
-A game’s current price and any paid features are shown in its store listing or purchase screen before a transaction. If purchases are offered through Apple, payment, subscription management, cancellation, and refund requests follow the applicable Apple process and your mandatory consumer rights.
-[CONFIRM WHICH GAMES ARE FREE OR PAID AND WHETHER IN-APP PURCHASES, SUBSCRIPTIONS, ADS, OR DIRECT SALES EXIST. REMOVE INAPPLICABLE LANGUAGE AND ADD THE ACTUAL COMMERCIAL TERMS. NO SUBSCRIPTION IS CREATED BY VISITING THIS WEBSITE.]
+This website showcases games and provides information and support. It does not take orders or process payments. A game’s current price and any paid features are shown in its store listing or purchase screen before a transaction. If purchases are offered through Apple, payment, subscription management, cancellation, and refund requests follow the applicable Apple process and your mandatory consumer rights.
+[CONFIRM WHICH GAMES ARE FREE OR PAID AND WHETHER IN-APP PURCHASES, SUBSCRIPTIONS OR ADS EXIST IN THE APPS. REMOVE INAPPLICABLE LANGUAGE AND ADD THE ACTUAL COMMERCIAL TERMS. NO SUBSCRIPTION IS CREATED BY VISITING THIS WEBSITE.]
 
 ## 6. Availability, progress, and updates
 
