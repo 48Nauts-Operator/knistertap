@@ -21,4 +21,4 @@ support@knistertap.com
 ## 3. Verantwortung für die Website
 
 [INHALTLICH VERANTWORTLICHE PERSON, SOWEIT ERFORDERLICH]
-[DOMAIN]
+https://knistertap.com

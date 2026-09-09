@@ -20,4 +20,4 @@ support@knistertap.com
 ## 3. Website responsibility
 
 [PERSON RESPONSIBLE FOR THE WEBSITE, WHERE REQUIRED]
-[DOMAIN]
+https://knistertap.com

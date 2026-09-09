@@ -5,6 +5,7 @@ Drafted 9 September 2026. The requested drafts are in `privacy.en.md`, `privacy.
 ## Confirmed by the maker
 
 - Brand: Knistertap (working name).
+- Website domain: https://knistertap.com.
 - Support/privacy contact: support@knistertap.com (supplied by the maker).
 - Website analytics: Umami only; connection and hosting details pending.
 - Operator: Candoo Labs / Wolke.
@@ -17,7 +18,7 @@ The supplied operator name is preserved verbatim. A registered entity type, trad
 
 ## Still needed to finalize the drafts
 
-1. Public domain, effective date, and any applicable registration or representative details.
+1. Effective date, and any applicable registration or representative details.
 2. Hosting/CDN and email providers; processing countries; actual log fields; retention and backup periods; any international-transfer safeguards required for the chosen services.
 3. Release-level confirmation of ads, analytics, purchases, subscriptions, cloud services, diagnostics accessed through Apple, and all third-party SDKs for each game.
 4. Intended ages and countries, whether children are specifically targeted, and appropriate safeguards for the actual data flows. A store age rating is not a substitute for that assessment.

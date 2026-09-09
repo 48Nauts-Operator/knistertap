@@ -28,7 +28,7 @@ Umami is the only selected website analytics tool. Its script URL and website ID
 
 ## Policy drafts
 
-The owner is **Candoo Labs / Wolke, Zaehlerweg 5, 6300 Zug, Switzerland**, as supplied by the user. The support/privacy email is **support@knistertap.com**. The name and postal address appear only in the legal notice; Support, Privacy and Terms link there. The public website domain, hosting, Umami instance details, retention periods, intended age groups and commercial features remain to be supplied. The documents mark those gaps instead of inventing them.
+The owner is **Candoo Labs / Wolke, Zaehlerweg 5, 6300 Zug, Switzerland**, as supplied by the user. The support/privacy email is **support@knistertap.com**. The name and postal address appear only in the legal notice; Support, Privacy and Terms link there. The website domain is **https://knistertap.com**, with GitHub Pages selected for hosting. Hosting data-handling details, Umami instance details, retention periods, intended age groups and commercial features still need to be completed. The documents mark those gaps instead of inventing them.
 
 The Terms of Service supplement website/service use. They are not a replacement custom Apple EULA. The Privacy Policy has a Wörtli-specific section grounded in the inspected source, including automatic Game Center submissions when authenticated.
 
@@ -51,7 +51,7 @@ Remotes use the same configured SSH aliases as the existing xnaut.dev website:
 
 The full server URLs are `ssh://git@cosmos.tail138398.ts.net:2222/48Nauts/Knistertap.git` and `git@github.com:48Nauts-Operator/knistertap.git`. The aliases select the existing SSH keys on the maker’s Mac. Other machines can use those full URLs with their own authorized keys. The script does not automatically commit uncommitted changes or force-push either repository.
 
-One-time GitHub setup: [Settings → Pages](https://github.com/48Nauts-Operator/knistertap/settings/pages), then choose **GitHub Actions** as the source. After enabling Pages, rerun a failed initial deployment from the Actions tab if necessary. The expected default website URL is `https://48nauts-operator.github.io/knistertap/`.
+One-time GitHub setup: [Settings → Pages](https://github.com/48Nauts-Operator/knistertap/settings/pages), then choose **GitHub Actions** as the source. Enter **knistertap.com** under Custom domain and save it. Enable Enforce HTTPS when available. After enabling Pages, rerun a failed initial deployment from the Actions tab if necessary. The intended website URL is `https://knistertap.com`; the default Pages URL is `https://48nauts-operator.github.io/knistertap/`.
 
 Pushes build the current preview, retaining policy draft labels and noindex metadata. A deployed preview is publicly accessible; noindex is not access control. The manual workflow offers a `release` build, which uses the existing release checks and requires remaining policy placeholders to be resolved. Set the push default to `release` when the launch content is final.
 
