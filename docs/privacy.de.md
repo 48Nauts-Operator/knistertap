@@ -14,9 +14,9 @@ Gültig ab: 9. September 2026. Website: https://knistertap.com.
 
 Dein Browser übermittelt beim Abruf einer Seite Verbindungsinformationen, darunter eine IP-Adresse und die für die Auslieferung der Seite benötigten Angaben.
 [HOST / CDN, LÄNDER, KONKRETE PROTOKOLLDATEN, ZWECKE, EMPFÄNGER UND AUFBEWAHRUNGSDAUER BESTÄTIGEN.]
-Für die Website-Analyse ist ausschliesslich Umami vorgesehen. Damit möchten wir die Nutzung der Website verstehen und die Seiten verbessern. Weitere Analytics-Tools oder Werbetracker sind nicht vorgesehen. Schriften und Bilder werden lokal ausgeliefert; die Website enthält keine eingebetteten Drittanbieterdienste und keine Newsletter-Anmeldung.
+Knistertap verwendet für die Website-Analyse Umami über https://wave.21nauts.com. Die Website lädt das Tracking-Skript von https://wave.21nauts.com/script.js. Damit möchten wir die Nutzung der Website verstehen und die Seiten verbessern. Weitere Analytics-Tools oder Werbetracker sind nicht vorgesehen. Schriften und Bilder werden lokal ausgeliefert; die Website enthält keine eingebetteten Medien von Drittanbietern und keine Newsletter-Anmeldung.
 Laut Umamis Dokumentation verwendet das Tracking-Skript keine Cookies: https://docs.umami.is/docs/faq. Das bedeutet nicht, dass die Hosting- und Analytics-Infrastruktur keine Verbindungsinformationen erhält.
-[DIE UMAMI-EINBINDUNG STEHT NOCH AUS; DIE AKTUELLE VORSCHAU LÄDT KEIN ANALYTICS-SKRIPT. VOR VERÖFFENTLICHUNG DEN UMAMI-HOST/BETREIBER, EIGENBETRIEB ODER CLOUD, BEARBEITUNGSLÄNDER, DATENFELDER, ZUGRIFF, AUFBEWAHRUNG UND ALLFÄLLIGE RECHTSGRUNDLAGE ODER AUSWAHLMÖGLICHKEIT BESTÄTIGEN. DEN TEXT MIT DER TATSÄCHLICHEN KONFIGURATION ABGLEICHEN.]
+[DAS UMAMI-SKRIPT IST EINGEBUNDEN. BETREIBER DER INSTANZ UND INFRASTRUKTURANBIETER, EIGENBETRIEB ODER CLOUD, BEARBEITUNGSLÄNDER, DATENFELDER, ZUGRIFF, AUFBEWAHRUNG UND ALLFÄLLIGE RECHTSGRUNDLAGE ODER AUSWAHLMÖGLICHKEIT BESTÄTIGEN.]
 
 ## 3. Kontakt mit dem Entwickler
 

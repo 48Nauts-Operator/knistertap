@@ -1,7 +1,7 @@
 export const site = {
   name: 'Knistertap', owner: 'Candoo Labs / Wolke', address: 'Zaehlerweg 5, 6300 Zug, Switzerland',
   email: 'support@knistertap.com', domain: 'https://knistertap.com', legalReviewed: false,
-  analytics: {provider:'umami', scriptUrl:'', websiteId:''},
+  analytics: {provider:'umami', scriptUrl:'https://wave.21nauts.com/script.js', websiteId:'59e34c79-c9e1-4936-b4e7-48d98fd0b556', domains:['knistertap.com','www.knistertap.com']},
   games: [{id:'woertli', name:'Wörtli', status:'development', appStoreUrl:'', icon:'/assets/woertli.png', devices:['iPhone','iPad'], language:'German'}],
 };
 export const copy = {

@@ -8,7 +8,7 @@ Drafted 9 September 2026. The requested drafts are in `privacy.en.md`, `privacy.
 - Website domain: https://knistertap.com.
 - The maker confirmed there are no sales, orders or payments on the website; it showcases games and provides support.
 - Support/privacy contact: support@knistertap.com (supplied by the maker).
-- Website analytics: Umami only; connection and hosting details pending.
+- Website analytics: Umami only; script connected, instance operator and hosting details pending.
 - Operator: Candoo Labs / Wolke.
 - Public address: Zaehlerweg 5, 6300 Zug, Switzerland.
 - Mission: enjoyable daily mental challenges, vocabulary, focus, and independent judgment in the age of AI.
@@ -71,7 +71,7 @@ Use “a little moment of active thinking” and “a puzzle break.” Do not de
 
 ## Umami setup
 
-Only Umami is authorized for website analytics. Script URL and website ID have been requested; no tracker has been installed or activated yet. Use the supplied snippet to identify the real instance, then implement and verify the actual configuration and update the preview-status note. Confirm processing location, provider, data fields and retention rather than assuming Umami Cloud or self-hosting. The [official FAQ](https://docs.umami.is/docs/faq) describes a cookieless tracker; this alone is not a finding about all personal-data processing or legal consent requirements. Website analytics choices do not establish the SDK inventory of the iOS apps.
+Only Umami is authorized for website analytics. The supplied script `https://wave.21nauts.com/script.js` and website ID `59e34c79-c9e1-4936-b4e7-48d98fd0b556` are now wired into the shared HTML head. Collection is restricted to `knistertap.com` and `www.knistertap.com` through `data-domains`; full English/German pages and the root homepage include one script, while redirect-only pages omit it. Preview mode still keeps policy draft labels and noindex, but does not disable analytics on the public domain. Confirm processing location, provider, data fields and retention rather than assuming Umami Cloud or self-hosting. The [official FAQ](https://docs.umami.is/docs/faq) describes a cookieless tracker; this alone is not a finding about all personal-data processing or legal consent requirements. Website analytics choices do not establish the SDK inventory of the iOS apps.
 
 ## Impressum completion — 9 September 2026
 

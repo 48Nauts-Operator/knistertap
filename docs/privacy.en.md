@@ -14,9 +14,9 @@ Effective date: 9 September 2026. Website: https://knistertap.com.
 
 Your browser sends connection information when it requests a page, including an IP address and information needed to deliver the page.
 [CONFIRM HOST / CDN, COUNTRIES, EXACT LOG FIELDS, PURPOSES, RECIPIENTS, AND LOG RETENTION.]
-Umami is the only website analytics tool selected for Knistertap. Its purpose is to understand website usage and improve the pages. No additional analytics tools or advertising trackers are planned. Fonts and artwork are served locally; the website has no third-party embeds or newsletter form.
+Knistertap uses Umami for website analytics through https://wave.21nauts.com. The website loads its tracking script from https://wave.21nauts.com/script.js. Its purpose is to understand website usage and improve the pages. No additional analytics tools or advertising trackers are planned. Fonts and artwork are served locally; the website has no embedded third-party media or newsletter form.
 According to Umami’s documentation, its tracking script does not use cookies: https://docs.umami.is/docs/faq. This does not mean that the hosting and analytics infrastructure receives no connection information.
-[UMAMI INTEGRATION IS PENDING; THE CURRENT PREVIEW DOES NOT LOAD AN ANALYTICS SCRIPT. BEFORE PUBLICATION, CONFIRM THE ACTUAL UMAMI HOST/OPERATOR, SELF-HOSTED OR CLOUD SETUP, PROCESSING COUNTRIES, DATA FIELDS, ACCESS, RETENTION, AND ANY APPLICABLE LEGAL BASIS OR CHOICE MECHANISM. MATCH THIS TEXT TO THE DEPLOYED CONFIGURATION.]
+[THE UMAMI SCRIPT IS CONNECTED. CONFIRM THE INSTANCE OPERATOR AND INFRASTRUCTURE PROVIDERS, SELF-HOSTED OR CLOUD SETUP, PROCESSING COUNTRIES, DATA FIELDS, ACCESS, RETENTION, AND ANY APPLICABLE LEGAL BASIS OR CHOICE MECHANISM.]
 
 ## 3. Contacting the developer
 
