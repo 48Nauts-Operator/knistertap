@@ -14,7 +14,7 @@ Open http://127.0.0.1:5188. The server binds only to this Mac. Rebuild with `npm
 
 ## Pages and content
 
-English and German each have a homepage, Wörtli detail page, support page, Privacy Policy, Terms of Service, and legal notice. Both homepages include the founder's purpose and an expandable note about exploratory work involving cognitive difficulties. Game Center, app-store availability, and product benefits are not invented. Wörtli is marked in development and has no fabricated download link.
+English and German each have a homepage, Wörtli detail page, support page, Privacy Policy, Terms of Service, and legal notice. Both homepages include the founder's purpose and an expandable note about exploratory work involving cognitive difficulties. Game Center, app-store availability, and product benefits are not invented. Wörtli is available free for iPhone (iOS 17+) at https://apps.apple.com/app/id6810300702. Both homepages and localized game pages link to the App Store.
 
 - `content/site.mjs`: branding, owner details, email/domain configuration, game registry, and bilingual site copy.
 - `content/policies.mjs`: editable English/German policy drafts. These are the shared source for the rendered policy pages and Markdown documents.
